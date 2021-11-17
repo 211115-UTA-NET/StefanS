@@ -1,0 +1,6 @@
+11/17/2021
+
+Recap from yesterday:
+  #!/usr/bin/bash
+    should be included at the top of each script File as good practice
+  

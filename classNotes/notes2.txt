@@ -1,0 +1,50 @@
+/*
+11/16/2021
+
+QC team meeting:
+  -Basic Interview Notes and question answering.
+  -QCs will be infront of groups. (2-3 questions).
+  -First QCs will be monday the 22nd.
+
+Class with Richard{
+  Review of yesterday{
+    Commands learned yesterday{                                                  //git bash initial learning
+       pwd = "prints current working directory";
+       touch = "creates target file";
+       mkdir = "creates target directory";
+       ls = "lists contents of directory";
+       rm = "removes contents of directory";
+       cat = "Prints file contents";
+       help = "lists usecases preceeding command";
+       ./ = "list current location";
+       .. = "Parent directory";
+       cd = "change working directory";
+       explore . = "open file explorer in current directory";
+       git clone = "creates clone of a remote repo to a local location";
+      }
+    }
+    Learning how to use repositories{                                           //learning to used decentralized repositories
+      git add = "adds a file to the git repository";
+      git clone = "creates a hidden copy folder";
+      git status = "gives information if up to date";
+      git commit = "Creates a 'save point' for the repository by
+                    bundling changes";                                          //Version Control
+      git push = "updates remote repository";
+      git pull = "updates the directory with the updated repository";
+
+      cat () = "adds to file";
+      echo = "prints target";
+      which = "prints location of /$PATH of the executable";
+      > = "overwrite contents";
+      >> = "append contents";
+      head = "takes first 10 entries by default";
+    }
+    //Richard will do a push before lunch and in the afternoon daily
+    Commands for git bash{
+      echo "String" > file = adds string to file
+        you can use echo to overwrite a file so careful.
+
+        create script that will add push commmit to the github
+    }
+  }
+*/

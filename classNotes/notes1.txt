@@ -1,0 +1,20 @@
+/*git pow project
+
+11/15/2021
+
+  Exercise 1: Creating a folder and items
+    1. create a folder
+      mkdir
+    2. create a new file in foldercd
+      touch
+    3. ls from outside that folder
+      ls ./filepath
+    4. Clone Directory
+      git clone (URL)
+
+    open explorer: explorer .
+
+    Tomorrow:
+      QC first thing in the morning, check discord for zoom link.
+      practice with github dipository tomorrow morning b4 class
+*/
